@@ -1,0 +1,2 @@
+Epsilon: 0.9987799443318334
+Generation: 20

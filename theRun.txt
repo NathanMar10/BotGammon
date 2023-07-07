@@ -1,0 +1,2 @@
+Epsilon: 0.6913743567638844
+Generation: 559
